@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\CorsStudentClient.dll.config
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\CorsStudentClient.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\CorsStudentClient.pdb
+C:\inetpub\wwwroot\w09a\CorsStudentClient\obj\Debug\CorsStudentClient.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\obj\Debug\CorsStudentClient.pdb
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Web.Cors.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Web.Http.Cors.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\w09a\CorsStudentClient\bin\System.Web.Http.Cors.xml
+C:\inetpub\wwwroot\w09a\CorsStudentClient\obj\Debug\CorsStudentClient.csprojResolveAssemblyReference.cache
